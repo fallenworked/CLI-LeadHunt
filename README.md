@@ -43,7 +43,8 @@ LEAD HUNTER · LOCAL EDITION
 Нужен Python 3.10+ (проверено на 3.12) и интернет для поиска.
 
 ```powershell
-cd lead-hunter-main
+git clone https://fallenworked/CLI-LeadHunt.git
+cd CLI-LeadHunt
 python -m pip install -r requirements.txt
 python main.py
 ```
