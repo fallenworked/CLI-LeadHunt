@@ -1,6 +1,5 @@
 # LEAD HUNTER — LOCAL EDITION
 
-[English](README.en.md) · **Русский**
 
 Локальный терминальный охотник за лидами для Windows 10/11. Ищет реальные
 POI-объекты OpenStreetMap через публичный Overpass API, сохраняет их в SQLite,
